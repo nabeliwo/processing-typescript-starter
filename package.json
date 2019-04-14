@@ -4,7 +4,7 @@
   "description": "It's a boiler plate that can be drawn immediately using p5js and typescript.",
   "main": "index.js",
   "scripts": {
-    "start": "webpack"
+    "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",

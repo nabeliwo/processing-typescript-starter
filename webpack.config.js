@@ -9,8 +9,8 @@ module.exports = {
   entry: "./src/ts/sketch.ts",
   output: {
     filename: "[name].bundle.js",
-    path: resolve("dist"),
-    publicPath: "/public/"
+    path: resolve("static", "assets"),
+    publicPath: "/"
   },
   resolve: {
     extensions: [".ts", ".js"]
