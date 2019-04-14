@@ -6,7 +6,7 @@ const webpack = require("webpack");
 module.exports = {
   mode: "development",
   devtool: "inline-source-map",
-  entry: "./src/ts/sketch.ts",
+  entry: "./src/ts/index.ts",
   output: {
     filename: "[name].bundle.js",
     path: resolve("static", "assets"),

@@ -16,8 +16,11 @@
     "url": "https://github.com/nabeliwo/processing-typescript-starter/issues"
   },
   "homepage": "https://github.com/nabeliwo/processing-typescript-starter#readme",
-  "dependencies": {},
+  "dependencies": {
+    "p5": "^0.8.0"
+  },
   "devDependencies": {
+    "@types/p5": "^0.7.2",
     "ts-loader": "^5.3.3",
     "typescript": "^3.4.3",
     "webpack": "^4.30.0",
