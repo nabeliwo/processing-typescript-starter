@@ -1,0 +1,19 @@
+{
+  "name": "processing-typescript-starter",
+  "version": "1.0.0",
+  "description": "It's a boiler plate that can be drawn immediately using p5js and typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabeliwo/processing-typescript-starter.git"
+  },
+  "author": "nabeliwo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nabeliwo/processing-typescript-starter/issues"
+  },
+  "homepage": "https://github.com/nabeliwo/processing-typescript-starter#readme"
+}
