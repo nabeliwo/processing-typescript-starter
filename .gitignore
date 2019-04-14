@@ -1,0 +1,23 @@
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+.byebug_history
+erd.pdf
+/coverage
+
+# Ignore development environmental variables
+.env.*
+!/.env.development
+!/.env.test
+
+# macOS
+.DS_Store
+
+# client
+/node_modules
+/npm-debug.log*
+/yarn-error.log
+/dist
